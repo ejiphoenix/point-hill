@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: https://pointhill.ng/sitemap.xml
+
+# Block common bot traps
+Disallow: /cgi-bin/
+Disallow: /tmp/
